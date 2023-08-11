@@ -1,0 +1,12 @@
+
+
+.custom-card {
+    background: linear-gradient(135deg, #f06, #9f6); /* Adjust colors as needed */
+    transition: background-color 0.3s, transform 0.3s;
+  }
+  
+  .custom-card:hover {
+    background: linear-gradient(135deg, #9f6, #f06); /* Adjust colors as needed */
+    transform: scale(1.05);
+  }
+  
